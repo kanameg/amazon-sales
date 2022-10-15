@@ -1,0 +1,68 @@
+# Amazonセール探索方法
+
+## Kindle Topページにアクセスする
+https://www.amazon.co.jp/Kindle-%E3%82%AD%E3%83%B3%E3%83%89%E3%83%AB-%E9%9B%BB%E5%AD%90%E6%9B%B8%E7%B1%8D/b/?ie=UTF8&node=2275256051&ref_=nav_cs_kindle_books
+
+"セール&キャンペーン" "日替わりセール" "月替わりセール" のリンクを検索する。
+
+* セール&キャンペーン
+https://www.amazon.co.jp/hko/deals/ref=s9_acss_bw_cg_Reading_md8_w?ref=hko_kindle_sf&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=merchandised-search-1&pf_rd_r=8Q07X6B8GP9YQYB859T5&pf_rd_t=101&pf_rd_p=9716fbf6-d0fc-436a-8c73-c92ee7ed42fc&pf_rd_i=2275256051
+
+* 日替わりセール
+https://www.amazon.co.jp/b/ref=s9_acss_bw_cg_Reading_md9_w?node=3338926051&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=merchandised-search-1&pf_rd_r=8Q07X6B8GP9YQYB859T5&pf_rd_t=101&pf_rd_p=9716fbf6-d0fc-436a-8c73-c92ee7ed42fc&pf_rd_i=2275256051
+https://www.amazon.co.jp/b/ref=s9_acss_bw_cg_Reading_md9_w?node=3338926051
+
+
+* 月替わりセール
+https://www.amazon.co.jp/b/ref=s9_acss_bw_cg_Reading_md10_w?node=3338927051&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=merchandised-search-1&pf_rd_r=8Q07X6B8GP9YQYB859T5&pf_rd_t=101&pf_rd_p=9716fbf6-d0fc-436a-8c73-c92ee7ed42fc&pf_rd_i=2275256051
+https://www.amazon.co.jp/b/ref=s9_acss_bw_cg_Reading_md10_w?node=3338927051
+
+https://www.amazon.co.jp/gp/s/ref=dbs_f_r_shv_dda3c578-a5fc-4a19-ae15-aa5ddaa913a1?pageType=STOREFRONT&pf_rd_p=dda3c578-a5fc-4a19-ae15-aa5ddaa913a1&pf_rd_r=CCWJRJDT1ZQQS0QFT2ER&pf_rd_s=merchandised-search-7&pf_rd_i=3338927051&search-alias=digital-text&node=3550442051&sourceType=search&
+https://www.amazon.co.jp/gp/s/ref=dbs_f_r_shv_dda3c578-a5fc-4a19-ae15-aa5ddaa913a1?node=3550442051
+
+https://www.amazon.co.jp/s?rh=n%3A3550442051&fs=true&ref=lp_3550442051_sar
+
+全ての結果を表示するページ
+ページ1
+https://www.amazon.co.jp/s?rh=n%3A3550442051&fs=true&ref=lp_3550442051_sar
+
+ここから各ページを取得
+ページ2
+https://www.amazon.co.jp/s?i=digital-text&rh=n%3A3550442051&fs=true&page=2&qid=1665589940&ref=sr_pg_2
+https://www.amazon.co.jp/s?i=digital-text&rh=n%3A3550442051&fs=true&page=3&qid=1665591436&ref=sr_pg_3
+https://www.amazon.co.jp/s?i=digital-text&rh=n%3A3550442051&fs=true&page=4&qid=1665591456&ref=sr_pg_4
+https://www.amazon.co.jp/s?i=digital-text&rh=n%3A3550442051&fs=true&page=5&qid=1665591465&ref=sr_pg_5
+https://www.amazon.co.jp/s?i=digital-text&rh=n%3A3550442051&fs=true&page=6&qid=1665591475&ref=sr_pg_6  有効ページ
+https://www.amazon.co.jp/s?i=digital-text&rh=n%3A3550442051&fs=true&page=7&qid=1665591475&ref=sr_pg_7  異常ページに行ったら終了
+
+
+
+
+10/13 Kindle本 セール＆キャンペーン
+https://www.amazon.co.jp/hko/deals?_encoding=UTF8&ref_=hko_on_0_shop_more_000_onw
+
+https://www.amazon.co.jp/hko/deals
+https://www.amazon.co.jp/hko/deals
+
+
+月替わりURL
+https://www.amazon.co.jp/b/ref=s9_acss_bw_cg_Reading_md10_w?node=3338927051&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=merchandised-search-1&pf_rd_r=XK0ZVZKKFQY86B48JJXG&pf_rd_t=101&pf_rd_p=9716fbf6-d0fc-436a-8c73-c92ee7ed42fc&pf_rd_i=2275256051
+
+もっと見る
+https://www.amazon.co.jp/gp/s/ref=dbs_f_r_shv_dda3c578-a5fc-4a19-ae15-aa5ddaa913a1?pageType=STOREFRONT&pf_rd_p=dda3c578-a5fc-4a19-ae15-aa5ddaa913a1&pf_rd_r=N3B4VN32F9K0R9PNZTM3&pf_rd_s=merchandised-search-7&pf_rd_i=3338927051&search-alias=digital-text&node=3550442051&sourceType=search&
+
+全ての結果を表示するページ
+https://www.amazon.co.jp/s?rh=n%3A3550442051&fs=true&ref=lp_3550442051_sar
+
+
+
+
+Kindle本 セール＆キャンペーン ページスタート
+https://www.amazon.co.jp/hko/deals/ref=s9_acss_bw_cg_Reading_md8_w?ref=hko_kindle_sf&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_s=merchandised-search-1&pf_rd_r=8Q07X6B8GP9YQYB859T5&pf_rd_t=101&pf_rd_p=9716fbf6-d0fc-436a-8c73-c92ee7ed42fc&pf_rd_i=2275256051
+https://www.amazon.co.jp/hko/deals/
+
+
+
+
+
+https://www.amazon.co.jp/kindle-dbs/browse/ref=dbs_b_r_brws_hcko_pppt_recs_pg_3?metadata=cardAppType%3ADESKTOP%24deviceTypeID%3AA2Y8LFC259B97P%24clientRequestId%3AVDRHT7XRT91M03V3P4F9%24deviceAppType%3ADESKTOP%24ipAddress%3A10.89.148.68%24userAgent%3ADramService%2F1.0%24deviceFamily%3AWhiskeytown%24cardSurfaceType%3Adesktop%24cardMobileOS%3AUnknown%24deviceSurfaceType%3Adesktop&storeType=ebooks&widgetId=ebooks-deals-storefront_PointsPromotionStrategy&sourceAsin=&content-id=amzn1.sym.e8e84121-5959-46be-b920-cf1e83f640e8&title=%E4%BA%BA%E6%B0%97%E3%81%AE%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88%E9%82%84%E5%85%83%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB&refTagFromService=hcko_pppt&view=LIST&pf_rd_p=e8e84121-5959-46be-b920-cf1e83f640e8&sourceType=recs&pf_rd_r=VDRHT7XRT91M03V3P4F9&pd_rd_wg=TGNQk&ref_=dbs_r_recs_hcko_pppt_r&SkipDeviceExclusion=true&pd_rd_w=Z9Iik&pd_rd_r=5dd5e1f4-b886-4e33-a44e-cac0dd1ac974&page=3

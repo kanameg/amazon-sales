@@ -1,0 +1,12 @@
+{
+    "name": "Python Amazon Kindle Sales",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "python",
+    "workspaceFolder": "/tmp/work",
+    "extensions": [
+        "ms-python.python"
+    ],
+    "settings": {
+        "editor.tabSize": 4
+    },
+}
