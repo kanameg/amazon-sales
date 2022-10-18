@@ -156,6 +156,9 @@ if res.status_code == 200:
         """セールの名前とURLを取得"""
         sales_name = deal.find(class_='a-spacing-micro').find('h2').text.strip()
         sales_url = base_url + deal.find(class_='a-spacing-micro').find('a').attrs['href']
+
+        """現在有効なセール一覧を取得"""
+        
         
         """DBにセール情報を追加"""
         sql = "INSERT INTO sale(name, url, available) VALUES('{}', '{}', 1)".format(sales_name, sales_url)
